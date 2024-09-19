@@ -1,0 +1,13 @@
+market <- readRDS('C:/Users/ltert/OneDrive/Documentos/top200spotify/market_genre_01072017_updated.Rds')
+head(market)
+top200 <- readRDS('C:/Users/ltert/OneDrive/Documentos/top200spotify/top200clean_01072017_updated.Rds')
+head(top200)
+market.freq <- readRDS('C:/Users/ltert/OneDrive/Documentos/top200spotify/market_genre_freq_01072017_updated.Rds')
+head(market.freq)
+artist <- readRDS('C:/Users/ltert/OneDrive/Documentos/top200spotify/artists_genre_01072017_updated.Rds')
+head(artist)
+artist.info <- readRDS('C:/Users/ltert/OneDrive/Documentos/top200spotify/artists_info_01072017_updated.Rds')
+head(artist.info)
+artist.area <- readRDS('C:/Users/ltert/OneDrive/Documentos/top200spotify/artists_area_mbid_01072017_updated.Rds')
+head(artist.area)
+
