@@ -6,6 +6,6 @@ This repository contains:
 * Files with data on the top 200 most played songs on 7/1/2017 in a total of 57 countries.
 * R scripts for analyzing different network configurations (the bipartite network of genres and countries and its projections), using the data described above.
 
-Some results are presented in the slides.pdf file.
-
-(malumondelli@gmail.com)
+**#Mudanças realizadas:**
+*.Rds de cada arquivo de dados, pois os .Rda não eram compatíveis com as novas versões do R
+*Mudanças em algumas linhas de código que não rodavam adequadamente
