@@ -7,5 +7,7 @@ This repository contains:
 * R scripts for analyzing different network configurations (the bipartite network of genres and countries and its projections), using the data described above.
 
 **#Mudanças realizadas:**
+
 *.Rds de cada arquivo de dados, pois os .Rda não eram compatíveis com as novas versões do R
+
 *Mudanças em algumas linhas de código que não rodavam adequadamente
